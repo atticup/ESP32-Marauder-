@@ -2,6 +2,7 @@
 
 The project aims to enrich my power as a prowd cheap yellow display user btw creidits to [**Fr4nkFletcher**](https://github.com/Fr4nkFletcher/ESP32-Marauder-Cheap-Yellow-Display) og creator (love you brosky now i have a base template)
 this is simply a fork for myself feel free to use it but i won't be fixing any bugs unless i experience them myself 🫠
+btw this is made for myselfish self feel free to use it but as i said before it's ur own pain to fix it if u have bugs (btw tested only on ESP32-2432SO28R w/o gps)
 
 ---
 
